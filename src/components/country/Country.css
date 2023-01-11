@@ -1,0 +1,13 @@
+button {
+  margin: 5px 10px;
+  padding: 3px;
+  border-radius: 5px;
+}
+.country {
+    border: 2px ridge blue;
+    margin: 10px;
+    background-color: lightcyan;
+  }
+  img {
+    width: 100px;
+  }
